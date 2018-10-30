@@ -1,6 +1,6 @@
 # Fundamental-Data-Mining
 
-This is a fundamental data mining class taught by Prof. Daniela Stan Raicu at DePaul University. 
+<b>DSC 441</b>(Formerly IS 467):This is a fundamental data mining class taught by Prof. Daniela Stan Raicu at DePaul University. 
 
 Class topics covered:
   Data pre-processing
